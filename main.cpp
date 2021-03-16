@@ -1,4 +1,4 @@
-#include "snowman.cpp"
+#include "snowman.hpp"
 
 #include <iostream>
 #include <stdexcept>
